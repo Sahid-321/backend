@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const port = 3000;
-
+require("./db/conn")
 app.get("/",(req,res) =>{
     res.send("hello I am sahid jamal")
 });
