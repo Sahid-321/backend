@@ -13,6 +13,7 @@
   "dependencies": {
     "dbs": "^0.2.0",
     "express": "^4.18.2",
+    "hbs": "^4.2.0",
     "mongoose": "^6.7.2",
     "nodemon": "^2.0.20"
   }
